@@ -12,13 +12,14 @@
     "allowInbox": true,
     "commandDisabled": [],
     "eventDisabled": [],
-    "BOTNAME": "استرا",
-    "AMDIN_NAME": "61572167800906",
-    "FACEBOOK_ADMIN": "61572167800906",
+    "BOTNAME": "فانغ يوان",
+    
+    "AMDIN_NAME": "100004467758457",
+    "FACEBOOK_ADMIN": "",
     "PREFIX": ".",
     "ADMINBOT": [
-        "100094409873389",
-        "61572167800906"
+        "100004467758457",
+        ""
     ],
     "NDH": [
         ""
